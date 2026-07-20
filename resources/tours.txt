@@ -1,0 +1,7 @@
+Ruta Gastronómica del Lago;gastronómico;90
+Paseo Lacustre Llanquihue;lacustre;150
+Tour Cultural Calbuco;cultural;60
+Excursión a Isla Huar;lacustre;180
+Degustación de Quesos Artesanales;gastronómico;45
+Tour Volcán Calbuco;cultural;240
+Navegación al Atardecer;lacustre;120
